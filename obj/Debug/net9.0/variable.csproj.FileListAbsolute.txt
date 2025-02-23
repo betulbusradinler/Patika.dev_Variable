@@ -1,0 +1,14 @@
+d:\Patika.Dev\variable\bin\Debug\net9.0\variable.exe
+d:\Patika.Dev\variable\bin\Debug\net9.0\variable.deps.json
+d:\Patika.Dev\variable\bin\Debug\net9.0\variable.runtimeconfig.json
+d:\Patika.Dev\variable\bin\Debug\net9.0\variable.dll
+d:\Patika.Dev\variable\bin\Debug\net9.0\variable.pdb
+d:\Patika.Dev\variable\obj\Debug\net9.0\variable.GeneratedMSBuildEditorConfig.editorconfig
+d:\Patika.Dev\variable\obj\Debug\net9.0\variable.AssemblyInfoInputs.cache
+d:\Patika.Dev\variable\obj\Debug\net9.0\variable.AssemblyInfo.cs
+d:\Patika.Dev\variable\obj\Debug\net9.0\variable.csproj.CoreCompileInputs.cache
+d:\Patika.Dev\variable\obj\Debug\net9.0\variable.dll
+d:\Patika.Dev\variable\obj\Debug\net9.0\refint\variable.dll
+d:\Patika.Dev\variable\obj\Debug\net9.0\variable.pdb
+d:\Patika.Dev\variable\obj\Debug\net9.0\variable.genruntimeconfig.cache
+d:\Patika.Dev\variable\obj\Debug\net9.0\ref\variable.dll
